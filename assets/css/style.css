@@ -14,6 +14,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
+  color: #e1e5eb;
   /*color: #444444;*/
 }
 
@@ -542,7 +543,7 @@ section {
 .about h3 {
   font-weight: 700;
   font-size: 34px;
-  color: #414c64;
+  color: #8999bb;
 }
 
 .about h4 {
@@ -559,7 +560,7 @@ section {
 
 .about p {
   font-size: 15px;
-  color: #848484;
+  color: #e1e5eb;
 }
 
 /*--------------------------------------------------------------
@@ -590,7 +591,7 @@ section {
   padding: 20px 20px 20px 20px;
   height: 500px ;
   transition: all ease-in-out 0.3s;
-  background: #fff;
+  /*background: #fff;*/
   box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.05);
 }
 
@@ -1280,7 +1281,7 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info-box {
-  color: #444444;
+  color: #e1e5eb;
   text-align: center;
   box-shadow: 0 0 20px rgba(65, 76, 100, 0.05);
   padding: 20px 0 30px 0;
@@ -1296,7 +1297,7 @@ section {
 
 .contact .info-box h3 {
   font-size: 20px;
-  color: #777777;
+  color: #e4e4e5;
   font-weight: 700;
   margin: 10px 0;
 }
